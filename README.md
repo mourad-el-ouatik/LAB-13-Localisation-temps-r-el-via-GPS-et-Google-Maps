@@ -166,7 +166,7 @@ Depuis l’émulateur Android :
 Exemple d’API :
 
 ```text
-http://10.0.2.2/localisation/getPositions.php
+http://10.0.2.2/localisation/showPosition.php
 ```
 
 Réponse JSON attendue :
